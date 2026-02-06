@@ -1,6 +1,5 @@
 # Spam Mail Detector
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Spam+Mail+Detector)
 
 ## 📖 Overview
 **Spam Mail Detector** is a classifier designed to classify SMS messages as either "Spam" or "Ham" (non-spam). Leveraging the **UCI SMS Spam Collection** dataset, this project utilizes Natural Language Processing (NLP) techniques and supervised classification algorithms to achieve high-accuracy detection.
